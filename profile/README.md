@@ -1,6 +1,6 @@
 <!-- Top Banner -->
 <p align="center"> 
-  <img src="https://shop.dxo.com/media/catalog/product/cache/4a2cc613ea483af4cc5d8dbcba747c3a/d/x/dxo_pl_1_2_1_1.png" alt="DxO PhotoLab Elite Banner" width="100%" />
+  <img src="https://shop.dxo.com/media/catalog/product/cache/4a2cc613ea483af4cc5d8dbcba747c3a/d/x/dxo_pl_1_2_1_1.png" alt="DxO PhotoLab Elite Banner" width="20%" />
 </p>
 
 <h1 align="center">⚡ DxO PhotoLab Elite Unlock Tool</h1>
